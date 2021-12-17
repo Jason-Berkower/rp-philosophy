@@ -6,7 +6,10 @@
 }
 
 .nav {
+    display: flex;
+    justify-content: space-evenly;
     font-family: 'Montserrat', sans-serif;
+    text-align: center;
 }
 
 .nav a:link {
