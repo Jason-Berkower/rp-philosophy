@@ -5,8 +5,14 @@
 #header {
     font-family: 'Montserrat', sans-serif;
     text-align: center;
+    font-size: 52px;
+}
+
+#sub-header {
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+    font-size: 28px;
     text-decoration: underline;
-    font-size: 48px;
 }
 
 .nav {
