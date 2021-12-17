@@ -4,3 +4,25 @@
     text-decoration: underline;
     font-size: 48px;
 }
+
+.nav {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.nav a:link {
+    color: black;
+    text-decoration: none;
+}
+
+.nav a:visited {
+    color: black;
+}
+
+.nav a:hover {
+    color: blue;
+    font-weight: bolder;
+}
+
+.nav a:active {
+    color: black;
+}
